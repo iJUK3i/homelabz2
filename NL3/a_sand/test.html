@@ -1,0 +1,30 @@
+<html>
+	<body>
+
+		<input id="myInput" type="text" value="BMW">
+		<button onclick="checkCar()">Check Car</button>
+		<p id="demo"></p>
+
+		<script>
+function checkCar() {
+	var text;
+	var favCar = document.getElementById("myInput").value;
+
+	switch(favCar) {
+		default:
+			text = "not sure what you were looking for?";
+			break;
+		case "BMW":
+			text = "Twin Turbo BMW go";
+			break;
+		case "Ford":
+			text = "Found On Road Dead... no thanks";
+			break;
+		case "Lambo":
+			text = "sure but too pricey, is it free";
+	}
+	document.getElementById("demo").innerHTML = text;
+}
+		</script>
+	</body>
+</html>

@@ -1,0 +1,50 @@
+<div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="text-center"> Bruce Lee</h1>
+        <h2 class="text-center"><em> The Man, The Legend, The Dragon </em></h2>
+  <div class="thumbnail"><img id="blpic" src="https://www.pixelstalk.net/wp-content/uploads/2016/08/Free-HD-Bruce-Lee-Images-1.jpg" alt="Bruce Lee Pic"><p class="caption text-center"><small>One of Bruce's many ideologies and sayings. The thought is to be fluid and adaptable to everything.
+    </small></p>
+        </div>
+        <div class="row">
+          <div id="left_col" class="col-md-4">
+            <ul class="list-unstyled">
+              <p><h4><strong>Philosophy/Arts</strong></h4></p>
+            <li>gung fu</li>
+              <li>wing chun</li>
+            <li>boxing</li>
+              <li>fencing</li>
+              <li>taekwondo</li>
+              <li>judo</li>
+              <li>ultimately, Bruce mastered</li>
+            <li>each style and then pulled apart
+            the best of each to create
+            jeet kun do</li>
+                </ul></div>
+          <div id="mid_col" class="col-md-4"><ul class="list-unstyled"><h5><br><br>Balance of Mind, Body, Soul</h5>
+            <li><img id="midpic" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/JeetKuneDo.svg/220px-JeetKuneDo.svg.png"></img></li>
+        
+          </div>
+          <div id="right_col" class="col-md-4">
+            <ul class="list-unstyled">
+              <p><h4><strong>Movies/TV</strong></h4></p>
+              <li>Golden Gate Girl 1941</li>
+              <li>The Green Hornet '66-67</li>
+              <li>Batman 1966-1967</li>
+              <li>Ironside 1967</li>
+              <li>Blondie 1969</li>
+              <li>Marlowe 1969</li>
+              <li>The Big Boss 1971</li>
+              <li>Longstreet 1971</li>
+              <li>Fist of Fury 1972</li>
+              <li>Way of the Dragon 1972</li>
+            </ul></div>
+                </div>
+      <footer> Bruce Lee was a great philosopher just as much as he was a martial artist </footer>
+    </div>
+    <footer> He read many books in general but most of them focused on martial arts, and philosophy. His deep thought showed in the way he spoke and the way he taught. Very few recorded interviews show the thought provoking nature of this lost dragon.
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/DK1wP6vnu7k" frameborder="0" allowfullscreen></iframe></footer>
+  </div>
+  <footer> to find more info on Bruce Lee you can visit the <a href="https://en.wikipedia.org/wiki/Bruce_Lee" target=_blank>wiki page</a></footer>
+    

@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title> Mouse Over Test </title>
+		<script>
+var e = document.getElementById('parent');
+e.onmouseover = function() {
+	document.getElementById('popup').style.display = 'block';
+}
+e.onmouseout = function() {
+	document.getElementById('popup').style.display = 'none';
+}
+		</script>
+	</head>
+	<body>
+		<div id="parent">
+			This is the main container.
+			<div id="popup" style="display: none">some text here... some text here..</div>
+		</div>
+

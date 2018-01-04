@@ -1,0 +1,55 @@
+body {
+  margin-top: 65px;
+  background-color: orange;
+}
+
+.container {
+  background-color: black;
+  color: black;
+}
+
+footer {
+  text-align: center;
+}
+
+#blpic {
+  max-width: 90%;
+  max-height: 70%;
+  padding: 0px 0px 0px 55px;
+  margin: 0px 0px 0px 7px;
+}
+
+#midpic {
+  max-width:
+  margin: 22px 0px 0px -20px;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: red;
+}
+h3 {
+  text-align: center;
+}
+
+#img_top {
+  border-radius: 20px;
+  border: 2px;
+  padding: 0px 0px 0px 120px;
+  margin: 0px 0px 0px 20px;
+}
+
+#right_col {
+  text-align:
+}
+
+#left_col {
+  text-align: right;
+}
+
+#mid_col {
+  text-align: left;
+}

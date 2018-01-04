@@ -1,0 +1,54 @@
+<html>
+	<head>
+<style>
+div {
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	float: left;
+	padding: 30px;
+	border: 1px solid black;
+	background-color: lightgray;
+}
+p {
+	background-color: white;
+}
+</style>
+	</head>
+<body>
+	<h3> this is example ! </h3>
+
+	<p> the onmousemove event occurs everytime the mouse movesin the div element.</p>
+
+	<p> the onmouseenter event occurs when the mouse enters the div </p>
+
+	<p> the onmouseover even occurs when the mouse enters the element and its child elements and span.</p>
+
+	<div onmousemove="myMoveFunction()">
+		<p>onmousemove: <br> <span id="demo">MOUSE OVER ME!</span></p></div>
+
+	<div onmouseenter="myEnterFunction()">
+		<p>onmouseenter: <br> <span id="demo2">Mouse over me?</span></p></div>
+
+	<div onmouseover="myOverFunction()">
+		<p>onmouseover: <br> <span id="demo3">Mouse OvEr mE@</span></p></div>
+
+	<script>
+var x = 0;
+var y = 0;
+var z = 0;
+
+function myMoveFunction() {
+	document.getElementById("demo").innerHTML = z+=1;
+}
+
+function myEnterFunction() {
+	document.getElementById("demo2").innerHTML = y+=1;
+}
+
+function myOverFunction() {
+	document.getElementById("demo3").innerHTML = x+=1;
+}
+	</script>
+</body>
+</html>

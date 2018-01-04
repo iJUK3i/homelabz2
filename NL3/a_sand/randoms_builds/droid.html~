@@ -1,0 +1,56 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="android.css" media="only screen and (max-width: 480px)"/>
+		<meta name="viewport" content="user-scalable=no, width=device-width" />
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="explorer.css" media="all" />
+	<![endif]-->
+	<script type="text/javascript" src="jquery.js"></script>
+	<script type="text/javascript" src="android.js"></script>
+		<title>Smith Consulting</title>
+	</head>
+	<body>
+		<div id="container">
+			<div id="header">
+				<h1><a href="http://www.lasvegasrecreational.com">Las Vegas Recreational</a></h1>
+				<div id="utility">
+					<ul>
+						<li><a href="about.html">Pot Las Vegas</a></li>
+						<li><a href="blog.html">What I Smoke</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</div>
+				<div id="nav">
+					<ul>
+						<li><a href="consulting.html">Consulting</a></li>
+						<li><a href="on-call.html">On-Call</a></li>
+						<li><a href="development.html">Development</a></li>
+						<li><a href="1on1.html">Private Meeting</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="content">
+				<h2>About</h2>
+				<p>Hello, my name is Khris Smith, I'm a web developer and pot enthusiast. This is my site to post cool pics, reviews, and write about random things that happen in life!</p>
+			</div>
+			<div id="sidebar">
+				<img alt="Pic of Owner" src="owner.png"/>
+				<p>I offer consulting services in a couple of areas 
+				<ul>
+					<li><a href="infotech.html">Information Technology</a></li>
+					<li><a href="financial.html">Finances</a></li>
+					<li><a href="weed.html">Cannabis</a></li>
+				</ul>
+				</p>
+			</div>
+			<div id="footer">
+				<ul>
+					<li><a href="services.html">Services</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="blog.html">Blog</a></li>
+				</ul>
+				<p class="subtle">Smith Consulting, JUK3 Corp.</p>
+			</div>
+		</div>
+	</body>
+</html>

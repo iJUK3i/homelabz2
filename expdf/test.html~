@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+			<script type="text/javascript" src="test.js"></script>
+	</head>
+	<?php
+								  echo "Hello World";
+								  ?>
+	<body>
+								  
+	</body>
+</html>
